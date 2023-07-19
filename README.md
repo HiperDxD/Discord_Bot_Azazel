@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/HiperDxD/Discord_Bot_Azazel">
-    <img src="images/pyp.png" alt="Logo" width="80" height="80">
+    <img src="images/pyp.png" alt="Logo" width="140" height="120">
   </a>
 
 <h3 align="center">Discord Bot Azazel</h3>
