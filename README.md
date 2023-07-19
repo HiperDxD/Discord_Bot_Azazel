@@ -40,7 +40,7 @@
 ## About The Project
 
 
-There are many great BOTS for Discord on the internet, but i decided to make mine, it will have basic commandes and also some new future. This project will be build with Python.
+There are many great BOTS for Discord on the internet, but i decided to make mine, it will have basic commands and also some new future. This project will be build with Python.
 
 Here's why i decided to make this BOT:
 * Automating simpel tasks on discord
@@ -62,8 +62,9 @@ In this section i am listing all the programs and frameworks i am using for this
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] 
-- [ ] 
+- [ ] Create the bot on discord
+- [ ] Create the connection between discord and python
+- [ ] Interact with Discord API
 
 
 See the [open issues](https://github.com/HiperDxD/Discord_Bot_Azazel/issues) for a full list of proposed features (and known issues).
