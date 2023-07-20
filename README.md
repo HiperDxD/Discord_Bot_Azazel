@@ -88,6 +88,6 @@ See the [open issues](https://github.com/HiperDxD/Discord_Bot_Azazel/issues) for
 [Windows.js]: https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
 [Windows-url]: https://www.microsoft.com/en-us/windows?r=1
 [Gmail.js]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[Gmail.add]: gherman.armand@gmail.com
+[Gmail.add]: https://mail.google.com/mail/?view=cm&fs=1&to=gherman.armand@gmail.com&su=About_Azazel
 [Linkt.js]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [Link.add]: https://www.linkedin.com/in/armand-marius-gherman-a8b3a0236
