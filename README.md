@@ -65,6 +65,10 @@ In this section i am listing all the programs and frameworks i am using for this
 - [ ] Create the bot on discord
 - [ ] Create the connection between discord and python
 - [ ] Interact with Discord API
+- [x] Create on_ready event to show me the server this bot is assigned to
+- [x] Create a @help command to show what this bot can do
+- [x] Create a @list_members command to show on discord server a list with the members of the server
+- [x] Create a @kick and @ban command
 
 
 See the [open issues](https://github.com/HiperDxD/Discord_Bot_Azazel/issues) for a full list of proposed features (and known issues).
