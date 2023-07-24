@@ -1,7 +1,7 @@
 import os
 
 import discord
-from discord.ext import  commands
+from discord.ext import commands
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -41,7 +41,11 @@ async def kick(ctx, member: discord.member, *, reason=None):
     await ctx.send(f'User {member} has been kicked')
 
 @client.command()
-async def ban(ctx, member : discord.Member, *, reason = None):
+async def ban(ctx, member: discord.Member, *, reason = None):
     await member.ban(reason = reason)
+    await ctx.send(f'User {member} has been baned from the server')
+
+@client.command()
+async def():
 
 client.run(TOKEN)
